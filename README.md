@@ -1,5 +1,28 @@
 # 💫 About Me:
-### Hi there! 👋 I'm Saravana  <br><br>🚀 **Full-Stack Developer | Open Source Contributor | Tech Enthusiast**  <br><br>I love building scalable applications, optimizing performance, and exploring new technologies. Always learning, always improving!  <br><br>### 🔥 Tech Stack  <br>**Frontend:** HTML, CSS, TailwindCSS  <br>**Backend:** C++, Java, JavaScript, TypeScript  <br>**Frameworks & Libraries:** React.js, Node.js, Express.js, Spring Boot  <br>**Databases & ORMs:** MySQL, MongoDB, Prisma(ORM), JDBC, Hibernate(ORM)  <br>**Concepts:** OOPS, WebSocket, Microservices  <br>**DevOps & Cloud:** AWS, Docker, Redis, Kafka, Nginx, CI/CD (GitLab)  <br><br>### 🎯 What I Do  <br>- 🚀 Build and optimize **scalable full-stack applications**  <br>- 💡 Explore **microservices architecture & cloud technologies**  <br>- 🤝 Contribute to **open-source projects**  <br>- 🔍 Always learning & improving new tech skills  <br><br>### 🌍 Let's Connect  <br>📫 saravana8261@gmail.com  <br>💻 Check out my repositories below! 🚀  <br>
+###Hi there! 👋 I'm Saravana
+🚀 Full-Stack Developer | Open Source Contributor | Tech Enthusiast
+
+I love building scalable applications, optimizing performance, and exploring new technologies. Always learning, always improving!
+
+🔥 Tech Stack
+Frontend: HTML, CSS, JavaScript, TailwindCSS
+Backend: Java, JavaScript, TypeScript
+Frameworks & Libraries: React.js, Node.js, Express.js, Spring Boot
+Databases & ORMs: MySQL, MongoDB, Prisma(ORM), JDBC, Hibernate(ORM)
+Software Principles: OOP, WebSockets, Microservices
+DevOps & Cloud: AWS, Docker, Redis, Kafka, Nginx, CI/CD (GitLab)
+
+📌 Familiar with: C++ (studied but not used in development)
+
+🎯 What I Do
+🚀 Build and optimize scalable full-stack applications
+💡 Explore microservices architecture & cloud technologies
+🤝 Contribute to open-source projects
+🔍 Always learning & improving new tech skills
+🌍 Let's Connect
+📫 saravana8261@gmail.com
+💻 Check out my repositories below! 🚀
+
 
 
 ## 🌐 Socials:
